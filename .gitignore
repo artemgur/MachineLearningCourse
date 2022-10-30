@@ -130,3 +130,4 @@ dmypy.json
 
 .idea/
 to_ignore/
+catboost_info/
